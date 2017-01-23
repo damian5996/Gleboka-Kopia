@@ -1,0 +1,12 @@
+C:\Users\local\Desktop\Kopia\Kopia\Kopia\bin\Debug\Kopia.exe.config
+C:\Users\local\Desktop\Kopia\Kopia\Kopia\obj\Debug\Kopia.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\Kopia\Kopia\Kopia\bin\Debug\Kopia.exe
+C:\Users\local\Desktop\Kopia\Kopia\Kopia\bin\Debug\Kopia.pdb
+C:\Users\local\Desktop\Kopia\Kopia\Kopia\obj\Debug\Kopia.exe
+C:\Users\local\Desktop\Kopia\Kopia\Kopia\obj\Debug\Kopia.pdb
+C:\Users\Damian\Desktop\GlebokaKopia\Kopia\Kopia\Kopia\bin\Debug\Kopia.exe.config
+C:\Users\Damian\Desktop\GlebokaKopia\Kopia\Kopia\Kopia\obj\Debug\Kopia.exe
+C:\Users\Damian\Desktop\GlebokaKopia\Kopia\Kopia\Kopia\obj\Debug\Kopia.pdb
+C:\Users\Damian\Desktop\GlebokaKopia\Kopia\Kopia\Kopia\bin\Debug\Kopia.exe
+C:\Users\Damian\Desktop\GlebokaKopia\Kopia\Kopia\Kopia\bin\Debug\Kopia.pdb
+C:\Users\Damian\Desktop\GlebokaKopia\Kopia\Kopia\Kopia\obj\Debug\Kopia.csprojResolveAssemblyReference.cache
