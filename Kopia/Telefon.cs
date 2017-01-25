@@ -21,5 +21,18 @@ namespace Kopia
             return this.model;
         }
 
+        public Produkt GetProdukt()
+        {
+            produkt = new Produkt(GetNazwa(), GetCena());
+            return produkt;
+        }
+
+        public Telefon GlebokaKopiaTelefonu()
+        {
+            Telefon temp = new Telefon(GetNazwa(), GetCena(), (string) model.Clone());
+            if (produkt != null)
+                temp.produkt = produkt.KopiaProduktu();
+            return temp;
+        }
     }
 }

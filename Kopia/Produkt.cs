@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kopia
 {
-    class Produkt
+    class Produkt 
     {
         private string nazwa;
         private double cena;
@@ -24,6 +24,12 @@ namespace Kopia
         {
             return this.cena;
         }
+        public Produkt KopiaProduktu()
+        {
+            Produkt temp = new Produkt(this.nazwa, this.cena);
+            return temp;
+        }
+
 
     }
 }
